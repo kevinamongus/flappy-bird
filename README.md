@@ -1,2 +1,2 @@
 # flappy-bird
-use pyzrun to make flappy bird game!
+use pyzrun to make flappy bird game!  ps:remember to unzip the images
